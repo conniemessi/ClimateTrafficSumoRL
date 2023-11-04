@@ -34,15 +34,15 @@ Using these data, we can predict or analyze various results of the emission of g
 
 ## Background papers about climate change
 Climate change AI papers:
-https://www.climatechange.ai/papers/iclr2023/15
-https://www.climatechange.ai/papers/iclr2023/34
-https://www.climatechange.ai/papers/neurips2022/54
-https://www.climatechange.ai/papers/neurips2022/90
-https://www.climatechange.ai/papers/neurips2022/100
-https://www.climatechange.ai/papers/neurips2021/50
-https://www.climatechange.ai/papers/icml2021/55
-https://www.climatechange.ai/papers/icml2021/64
-https://www.climatechange.ai/papers/neurips2020/1
-https://www.climatechange.ai/papers/neurips2020/28
-https://www.climatechange.ai/papers/neurips2019/33
-https://www.climatechange.ai/papers/icml2019/40
+- https://www.climatechange.ai/papers/iclr2023/15
+- https://www.climatechange.ai/papers/iclr2023/34
+- https://www.climatechange.ai/papers/neurips2022/54
+- https://www.climatechange.ai/papers/neurips2022/90
+- https://www.climatechange.ai/papers/neurips2022/100
+- https://www.climatechange.ai/papers/neurips2021/50
+- https://www.climatechange.ai/papers/icml2021/55
+- https://www.climatechange.ai/papers/icml2021/64
+- https://www.climatechange.ai/papers/neurips2020/1
+- https://www.climatechange.ai/papers/neurips2020/28
+- https://www.climatechange.ai/papers/neurips2019/33
+- https://www.climatechange.ai/papers/icml2019/40
